@@ -1,0 +1,1 @@
+The current project is to create a recipes website using basic HTML and CSS. By the end of this project, I will demonstrate that I can create a well functioning website. 
